@@ -1,0 +1,20 @@
+2018-12-12T03:56:45.528450000 0.190234s notice: Recursively removing directory /Users/budozz/socketapp/rethinkdb_data/tmp
+2018-12-12T03:56:45.531413000 0.193201s notice: Initializing directory /Users/budozz/socketapp/rethinkdb_data
+2018-12-12T03:56:45.531593000 0.193374s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/budozz/socketapp/rethinkdb_data' did not already exist or is empty.)
+2018-12-12T03:56:45.531666000 0.193447s notice: Running rethinkdb 2.3.6 (CLANG 10.0.0 (clang-1000.10.43.1))...
+2018-12-12T03:56:45.537844000 0.199626s notice: Running on Darwin 18.0.0 x86_64
+2018-12-12T03:56:45.537967000 0.199748s notice: Loading data from directory /Users/budozz/socketapp/rethinkdb_data
+2018-12-12T03:56:45.678083000 0.339861s info: Automatically using cache size of 193 MB
+2018-12-12T03:56:45.678661000 0.340439s notice: Listening for intracluster connections on port 29015
+2018-12-12T03:56:45.680530000 0.342308s notice: Listening for client driver connections on port 28015
+2018-12-12T03:56:45.680743000 0.342521s notice: Listening for administrative HTTP connections on port 8080
+2018-12-12T03:56:45.680758000 0.342536s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-12-12T03:56:45.680767000 0.342545s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-12-12T03:56:45.680770000 0.342548s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-12-12T03:56:45.680778000 0.342556s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-12-12T03:56:45.680785000 0.342563s notice: Server ready, "Buds_MacBook_Pro_local_tdi" 6fb6babc-2442-4f27-9353-aa41a7c045f8
+2018-12-12T03:57:22.339892000 37.000903s notice: Server got SIGINT from pid 230, uid 501; shutting down...
+2018-12-12T03:57:22.340065000 37.001076s notice: Shutting down client connections...
+2018-12-12T03:57:22.340172000 37.001183s notice: All client connections closed.
+2018-12-12T03:57:22.340180000 37.001191s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2018-12-12T03:57:22.340498000 37.001509s notice: Storage engine shut down.
